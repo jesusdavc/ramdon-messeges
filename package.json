@@ -1,0 +1,15 @@
+{
+  "name": "ramdon-messeges",
+  "version": "1.0.0",
+  "description": "ramdon de messeges",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jesús",
+  "license": "MIT",
+  "bin": {
+    "ramdon-msg": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
