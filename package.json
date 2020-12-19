@@ -14,7 +14,15 @@
   "author": "Jesús",
   "license": "MIT",
   "bin": {
-    "ramdon-msg": "./bin/global.js"
+    "ramdon-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jesusdavc/ramdon-messeges.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jesusdavc/ramdon-messeges/issues"
+  },
+  "homepage": "https://github.com/jesusdavc/ramdon-messeges#readme"
 }
